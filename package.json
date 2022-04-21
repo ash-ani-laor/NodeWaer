@@ -1,0 +1,24 @@
+{
+  "name": "f1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "waer",
+    "cli"
+  ],
+  "author": "Ash Ani Laor",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.2",
+    "inputloop": "^1.1.4"
+  }
+}
